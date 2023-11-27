@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f standard 'R4K1B'
+figlet -f standard 'RAKIB CHOWDHURY'
 echo "IT'S A BRAND OKAY BBZ" |lolcat
 echo
 echo
@@ -120,4 +120,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run,😻🥰" |lolcat
 
-#Remake By R4K1B
+#Remake By RAKIB CHOWDHURY 
